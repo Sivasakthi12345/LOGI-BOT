@@ -67,7 +67,7 @@ Step 2 :
  Press this Button to Depoly Music Bot in Heroku
   
  
-   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LOGI-LAB/MUSIC)
+   [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=[https://github.com/LOGI-LAB/MUSIC](https://github.com/Sivasakthi12345/LOGI-BOT))
   
   Step 6:
   
